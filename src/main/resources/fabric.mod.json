@@ -5,14 +5,14 @@
 	"name": "SG Totem",
 	"description": "A simple mod to allow totems of undying direclty from every slot of the inventory.",
 	"authors": [
-		"Me!"
+		"ArielM24"
 	],
 	"contact": {
 		"homepage": "https://github.com/ArielM24/sg-totem",
 		"sources": "https://github.com/ArielM24/sg-totem"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sg-totem/icon.png",
+	"icon": "assets/sg-totem/sg-totem.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
